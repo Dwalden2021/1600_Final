@@ -4,7 +4,7 @@ This page will act as your home page, or the first one that loads up when visiti
 
 Here is what the basic HTML page looks like:
 
-###### Basic HTML page
+#### Basic HTML page
 
 ```html
 <!DOCTYPE html>
@@ -19,5 +19,34 @@ Here is what the basic HTML page looks like:
 </html>
 ```
 
+Lets update the title:
+```HTML
+<title>My First Page</title>
+```
+
+Then the header:
+```HTML
+<h1>Welcome to my Page</h1>
+```
+
+Then lately we will add something to the paragraph:
+```HTML
+<p>Please use the button below:</p>
+```
+
+We will create the button in the next section.  The completed code will look like this:
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Pages</title>
+    </head>
+    <body>
+        <h1>Welcome to my Page</h1>
+        <p>Please use the button below:</p>
+    </body>
+</html>
+```
+On the next page we will add a button to the page as well as imput boxes.
 
 [<<<Previous](VCSsetup.md) || [Home](README.md) || [Next>>>](HTML2.md)
