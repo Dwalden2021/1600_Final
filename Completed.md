@@ -10,7 +10,7 @@ Here are the sceenshots of the completed code and display:
 ![Before](/Images/Cap1.png "Before")
 ![After](/Images/Cap2.png "After")
 
-You have successfully created a html page that successfully pulls 2 user inputs, combines them, then changes the page to dispaly them. 
+You have successfully created a html page that successfully pulls 2 user inputs, combines them, then changes the page to display them. 
 
 
 Link to [HTML](TestingHTML.html)

@@ -1,6 +1,6 @@
 #JavaScript code
 
-Here is where we will be creating a single javascript function to be used in our HTML page.  This little funciton will take the two inputs from the user, put them together and change the header of the page. Same as the CSS, I will not be going into detail on this code. Both of those could be a toutorial all their own. 
+Here is where we will be creating a single javascript function to be used in our HTML page.  This little function will take the two inputs from the user, put them together and change the header of the page. Same as the CSS, I will not be going into great detail on this code. Both of these subjects could be a tutorial  all their own. 
 
 You will start out with creating a function:
 ```javascript

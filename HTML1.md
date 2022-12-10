@@ -1,6 +1,6 @@
 # Setting up Index page
 
-This page will act as your home page, or the first one that loads up when visiting your website. HTML uses open and close tags to layout the page.  The open tag is looks like `<` and the close tag looks like `>`.  Each HTML pages has at a minimum a head, title and a body.   
+This page will act as your home page, or the first one that loads up when visiting your website. HTML uses open and close tags to layout the page.  The open tag looks like `<` and the close tag looks like `>`.  Each HTML pages has at a minimum of a head tag, title tag and a body tag.   
 
 Here is what the basic HTML page looks like:
 
@@ -47,6 +47,6 @@ We will create the button in the next section.  The completed code will look lik
     </body>
 </html>
 ```
-On the next page we will add a button to the page as well as imput boxes.
+On the next page we will add a button to the page as well as input boxes.
 
 [<<<Previous](VSCsetup.md) || [Home](README.md) || [Next>>>](HTML2.md)

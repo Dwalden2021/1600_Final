@@ -1,6 +1,6 @@
 # Adding Buttons and Input boxes
 
-First we will add a input box to the body of page. We will be using the "input" tag. We will give each input an id. The code will look like this:
+First, we will add a input box to the body of page. We will be using the "input" tag. We will give each input an id. The code will look like this:
 ```html
 <!DOCTYPE html>
 <html>
@@ -18,7 +18,7 @@ First we will add a input box to the body of page. We will be using the "input" 
 ```
 
 ###Button
-Next we will add a button to the body section of the page as well as a label "Click Me".  The button will be a submit button.  The code will look like this:
+Next, we will add a button to the body section of the page as well as a label "Click Me".  The button will be a submit button.  The code will look like this:
 ```html
 <!DOCTYPE html>
 <html>
@@ -37,7 +37,7 @@ Next we will add a button to the body section of the page as well as a label "Cl
     </body>
 ```
 
-Last we will add an empty paragraph tag named "result" to bottom of the body.  We will use this to display the results of the script.  The code will look like this:
+Last, we will add an empty paragraph tag named "result" to bottom of the body.  We will use this to display the results of the script.  The code will look like this:
 ```html
 <!DOCTYPE html>
 <html>
