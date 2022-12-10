@@ -23,4 +23,4 @@ If you are wanting a place to upload and store your code, you can use the follow
 
 Then you are ready to begin!
       
-[<<<Previous](README.md) || [Home](README.md) || [Next>>>](createFolder.md)
+[<<<Previous](README.md) || [Home](README.md) || [Next>>>](CreateFolder.md)

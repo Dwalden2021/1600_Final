@@ -49,4 +49,4 @@ We will create the button in the next section.  The completed code will look lik
 ```
 On the next page we will add a button to the page as well as imput boxes.
 
-[<<<Previous](VCSsetup.md) || [Home](README.md) || [Next>>>](HTML2.md)
+[<<<Previous](VSCsetup.md) || [Home](README.md) || [Next>>>](HTML2.md)

@@ -9,4 +9,4 @@ Now you will need to create your HTML file. This is the file that will contain t
 #### Creating your JS file
 Now you will need to create your JS file. This is the file that will contain the code that will be run by your HTML file. To create your JS file agian right click on the blank space. Then select "New File" and name it whatever you would like. In this example, I will call it "scripts.js". 
 
-[<<<Previous](createFolder.md) || [Home](README.md) || [Next>>>](HTML1.md)
+[<<<Previous](CreateFolder.md) || [Home](README.md) || [Next>>>](HTML1.md)
